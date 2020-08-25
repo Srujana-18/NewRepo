@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\svemula35\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\svemula35\\.nuget\\packages"
+    ]
+  }
+}
